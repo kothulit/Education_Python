@@ -34,3 +34,4 @@ for e in all_pdf_files:
         counter +=1
 
 print(f"Скрипт закончил работу, скопировано {counter} файлов")
+input()
